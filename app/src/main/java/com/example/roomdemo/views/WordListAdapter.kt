@@ -1,13 +1,10 @@
 package com.example.roomdemo.views
 
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
-import android.widget.TextView
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.example.roomdemo.R
 import com.example.roomdemo.databinding.RecyclerviewItemBinding
 import com.example.roomdemo.model.Word
 
