@@ -1,4 +1,4 @@
-package com.example.roomdemo
+package com.example.roomdemo.views
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
